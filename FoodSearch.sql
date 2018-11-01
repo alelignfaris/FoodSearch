@@ -226,6 +226,7 @@ INSERT INTO CuisineType VALUES (10, 'Dessert');
 INSERT INTO CuisineType VALUES (11, 'Mexican');
 INSERT INTO CuisineType VALUES (12, 'Jamaican');
 INSERT INTO CuisineType VALUES (13, 'Brunch');
+INSERT INTO CuisineType VALUES (14, 'Ethiopian');
 
 --	TABLE: Cuisine
 --		CuisineId int NOT NULL,
